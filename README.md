@@ -28,9 +28,10 @@ automated backups and health monitoring.
 admin dashboard behind it: content management for destinations and city guides, offers,
 notifications, analytics and client agreements.
 
-**A travel mobile app** (React Native / Expo) — the consumer side of the same platform:
+**[Wajhati — وجهتي](https://play.google.com/store/apps/details?id=com.agrtravel.wajhatiapp)**,
+on Google Play — the travel app (React Native / Expo) and the consumer side of the same platform:
 destination guides, services, travel tools, eSIM purchase, and a day-planning engine that builds
-a realistic daily itinerary from routing data rather than a fixed list.
+a realistic daily itinerary from real road distances rather than a fixed list.
 
 **[chess.agrtravel.com](https://chess.agrtravel.com)** — real-time multiplayer chess with
 accounts, Elo and an admin panel. **The source is public:** [github.com/ahmadzamameri/chess](https://github.com/ahmadzamameri/chess)
